@@ -5,12 +5,8 @@ The model is served via GitHub Pages so it can be loaded directly in browser-bas
 
 ## Usage
 
-1. The `model.json` and weight files are placed here.
-2. Load the model from the URL:
-   `https://tree-model.github.io/tree-model/model.json`
+1. The `model.json`, `metadata.json` and weight file(s) are placed here.
+2. Load the model from the URL:  
+   `https://asemalrajhi.github.io/tree-model/model.json`
 3. Use TensorFlow.js in a web page to predict on uploaded images.
 4. Results can be sent to a Google Apps Script backend for email/notification/storage.
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
